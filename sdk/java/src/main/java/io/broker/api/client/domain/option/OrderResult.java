@@ -7,9 +7,9 @@ import lombok.Singular;
 /**
  * @ProjectName:
  * @Package:
- * @Author: admin  <admin@ukex.global>
+ * @Author: admin  <admin@dgalaxy.com>
  * @CreateDate: 2020-06-04 11:10
- * @Copyright（C）: 2020 UKEX Global Inc. All rights reserved.
+ * @Copyright（C）: 2020 DGalaxy Inc. All rights reserved.
  */
 public class OrderResult {
 

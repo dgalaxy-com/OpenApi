@@ -1,4 +1,4 @@
-# Error codes for UKEX Global Broker (2020-06-25)
+# Error codes for DGalaxy Broker (2020-06-25)
 
 Errors consist of two parts: an error code and a message. Codes are universal,
  but messages can vary. Here is the error JSON payload:
@@ -88,7 +88,7 @@ Errors consist of two parts: an error code and a message. Codes are universal,
 ### -1103 UNKNOWN_PARAM
 
 * An unknown parameter was sent.
-* In UKEX Global Open Api , each request requires at least one parameter. {Timestamp}.
+* In DGalaxy Open Api , each request requires at least one parameter. {Timestamp}.
 
 ### -1104 UNREAD_PARAMETERS
 
